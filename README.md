@@ -55,8 +55,7 @@ Retail-Sales-Analysis-and-Prediction/
 [View Project Report](Reports/Retail_Sales_Analysis_Report.pdf)
 
 ## Notebook
-[View Jupyter Notebook](Notebooks/Retail_Sales_Analysis.ipynb)
-
+[View Jupyter Notebook](Retail_Sales_Analysis.ipynb)
 ## Conclusion
 This project demonstrates practical skills in data cleaning, exploratory data analysis, data visualization, and machine learning.
 
