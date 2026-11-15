@@ -1,3 +1,4 @@
+![Retail Sales Banner](images/retail-sales-banner.png)
 # Retail Sales Analysis & Prediction
 
 ## Project Overview
